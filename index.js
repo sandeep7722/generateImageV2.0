@@ -2,7 +2,7 @@
 //npm install request
 //npm install jimp
 //npm install express
-
+// npm install express replicate request jimp 
 
 const Replicate = require('replicate');
 const express = require('express');
@@ -92,7 +92,7 @@ function getNumberOfFiles(folderPath) {
 
 const model="tability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b";
 const input={
-    prompt: "An astronaut riding a rainbow unicorn"
+    prompt: "Imagine and describe a Louis Vuitton handbag that captures the allure of clouds moments before rainfall. The handbag should radiate a cinematic aura with an enchanting 8K finish. Incorporate a brand label, zipper, and handle embellished with silver quotes for added elegance. Craft the entire masterpiece from luxurious clouds, seamlessly blending opulence and creativity into a captivating design. there should not be any human in generated images."
   };
 
 
