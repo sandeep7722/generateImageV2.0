@@ -92,7 +92,7 @@ function getNumberOfFiles(folderPath) {
 
 const model="tability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b";
 const input={
-    prompt: "Imagine and describe a Louis Vuitton handbag that captures the allure of clouds moments before rainfall. The handbag should radiate a cinematic aura with an enchanting 8K finish. Incorporate a brand label, zipper, and handle embellished with silver quotes for added elegance. Craft the entire masterpiece from luxurious clouds, seamlessly blending opulence and creativity into a captivating design. there should not be any human in generated images."
+    prompt: "Compose a cinematic 8K image featuring a Ralph Lauren handbag embellished with enchanting butterfly and floral designs. Ensure that the composition maintains a focus solely on the exquisite bag, with no human body visible in the frame. Create a visually compelling scene that enhances the luxury and beauty of the handbag while keeping the attention solely on this stylish accessory."
   };
 
 
